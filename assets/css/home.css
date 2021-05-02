@@ -1,0 +1,36 @@
+ul {
+    padding-left: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.container {
+    margin-left: 101px;
+    margin-right: 101px;
+}
+
+.nav-ul {
+    list-style: none;
+}
+
+.nav-ul li {
+    margin-right: 57px;
+}
+
+.h1-header {
+    font-family: 'Poppins', sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+    margin-top: 191px;
+}
+
+.cont-header {
+    background-image: url("../img/slider-1.png");
+}
